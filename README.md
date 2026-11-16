@@ -4,7 +4,7 @@ Enterprise Invoicing Management System — a responsive, client-side public demo
 
 ## Demo mode
 
-All records are fictional and intended for interface demonstration only. Records created or changed in a session are held in browser memory and reset on reload; the selected color theme is saved in local storage. There is no backend, real authentication, payment processing, or real customer data. Do not enter sensitive information.
+All records are fictional and shown in Indonesian Rupiah (IDR), intended for interface demonstration only. Records created or changed in a session are held in browser memory and reset on reload; the selected color theme is saved in local storage. There is no backend, real authentication, payment processing, or real customer data. Do not enter sensitive information.
 
 ## Run locally
 
